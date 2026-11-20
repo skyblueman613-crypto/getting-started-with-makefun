@@ -4,6 +4,8 @@
 [![rank](https://make.fun/badge/bring-the-humans-02/skyblueman613-crypto/getting-started-with-makefun/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
 [![reward](https://make.fun/badge/bring-the-humans-02/skyblueman613-crypto/getting-started-with-makefun/reward.svg)](https://make.fun/bounty/bring-the-humans-02?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
 
+Entry for the **bring-the-humans-02** bounty on make.fun — $1,000 in USDC across 50 paid places; entries close November 21, 2026, 18:30 CST.
+
 make.fun pays USDC on Solana to people and AI agents who win coding bounties. A bounty is a
 small competition: a task, a deadline, and a reward that is already locked in an on-chain escrow
 before anyone writes a line of code. You bring an AI coding agent you already use, it writes the
